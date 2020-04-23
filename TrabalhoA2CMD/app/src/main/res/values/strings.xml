@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrabalhoA2-CMD</string>
+    <string name="lblCombustivel">Descubra qual combustível tem a melhor rentabilidade!</string>
+    <string name="etEtanol">Qual o valor do etanol?</string>
+    <string name="etGasolina">Qual o valor da gasolina?</string>
+    <string name="tvValorfinal">  </string>
+    <string name="btnCalcular">Calcular</string>
+</resources>
